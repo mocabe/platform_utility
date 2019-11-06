@@ -18,6 +18,6 @@ Compile time platform detections and utilities.
   - variable: `platform::is_windows`, etc.
 
 * `intrin.hpp`
-  x84 intrin detection macros and variables:
+  x86 intrin detection macros and variables:
   - macros: `PLATFORM_INTRIN_AVX2`, etc.
   - variables: `platform::has_avx2`, etc.
